@@ -59,7 +59,7 @@ IFA Paris | Paris, France | 2017–2020
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c--annabel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/c-annabel)
 [![GitHub](https://img.shields.io/badge/GitHub-c--annabel-181717?style=flat&logo=github&logoColor=white)](https://github.com/c-annabel)
-[![Email](https://img.shields.io/badge/Email-c--annabel@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c-annabel@outlook.com)
+[![Email](https://img.shields.io/badge/Email-c--annabel@outlook.com-D14836?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:c-annabel@outlook.com)
 
 ---
 
