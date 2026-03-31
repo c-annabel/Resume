@@ -8,7 +8,7 @@ GPA: 3.99 / 4.0 — Dean's Honours List
 
 ## 📄 Download
 
-
+[![Download Resume](https://img.shields.io/badge/Download-Resume-2E74B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/c-annabel/Resume/raw/main/Annabel_Cheng_Resume.pdf)
 
 ---
 
